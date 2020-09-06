@@ -34,7 +34,7 @@ Nota: **Esto es negrita**, *Esto es italica*..
 Ipsum ipsam accusantium eum quas dolorum Facilis debitis ipsam minus?
 
 > Esto es otra cita.
->> Esta cita esta dentro de la otra
+>> Esta cita esta dentro de la otra.Ipsum sit illo sit ad mollitia Perferendis sunt vitae velit eveniet unde unde. Veniam minima commodi accusantium culpa accusantium? Provident
 
 
 ## Es hora de las listas:
