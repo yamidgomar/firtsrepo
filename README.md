@@ -27,4 +27,4 @@ Consectetur omnis mollitia est velit iusto Nisi nam illum neque vero nemo Quisqu
     </html>
     
 
-Nota: **Esto es negrita**.
+Nota: **Esto es negrita**, *Esto es italica*..
