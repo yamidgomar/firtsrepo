@@ -32,3 +32,15 @@ Nota: **Esto es negrita**, *Esto es italica*..
 > **Esto es una cita**    
 > Esto la cita de la cita. Ipsum ipsam accusantium eum quas dolorum Facilis debitis ipsam minus?
 
+
+## Es hora de las listas:
+### Ordenada:
+1. Item 1
+2. Item 2
+3. Item 3
+
+# Desordenada:
+· Item 1
+· Item 2
+· Item 3
+
