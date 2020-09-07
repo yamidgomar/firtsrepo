@@ -51,7 +51,7 @@ Ipsum ipsam accusantium eum quas dolorum Facilis debitis ipsam minus?
 
 ## Esto es una tabla.
 Titulo 1 | Titulo 2
---|--
+:--|--:
 Dato 1 | Dato 2
 Dato 3 | Dato 4
 
