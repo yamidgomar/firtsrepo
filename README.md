@@ -6,7 +6,6 @@ Consectetur omnis mollitia est velit iusto Nisi nam illum neque vero nemo Quisqu
 
 ## Este es un subtitulo:
 ### Lo de abajo es codigo:
-    html 
     <!DOCTYPE html>
     <html lang="es">
     <head>
